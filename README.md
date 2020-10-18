@@ -1,1 +1,3 @@
 # clone-Netflix
+
+![](screenshot.PNG)
